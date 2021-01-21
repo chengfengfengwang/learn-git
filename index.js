@@ -19,3 +19,5 @@ cc
 3
 a
 b
+test
+test1
