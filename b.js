@@ -7,3 +7,6 @@ var b = {
 var c = {
     name : 'zzzz'
 }
+var d = {
+    name : 'zzzz'
+}
