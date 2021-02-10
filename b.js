@@ -1,2 +1,3 @@
-asdasdsad
-1234fsdsdf
+var a = {
+    name : 'asdsad'
+}
