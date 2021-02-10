@@ -4,3 +4,6 @@ var a = {
 var b = {
     name : 'zzzz'
 }
+var c = {
+    name : 'zzzz'
+}
