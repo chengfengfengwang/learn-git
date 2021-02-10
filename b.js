@@ -10,3 +10,6 @@ var c = {
 var d = {
     name : 'zzzz'
 }
+var e = {
+    name : 'zzzz'
+}
